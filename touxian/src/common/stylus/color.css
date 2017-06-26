@@ -1,0 +1,39 @@
+
+div .mu-appbar{
+ background-color: #12dff5;
+}
+div .mu-text-field-input{
+  color: #989898;
+}
+
+div .mu-date-display{
+  background-color: #12dff5;
+}
+div .mu-day-button-bg{
+  background-color: #12dff5;
+}
+div .mu-flat-button-primary{
+  color: #000;
+}
+div .mu-year-button.selected .mu-year-button-text{
+  color: #7cedf5;
+}
+div .mu-year-button.hover .mu-year-button-text {
+  color: #7cedf5;
+}
+div .mu-text-field-focus-line {
+  background-color: rgba(0, 0, 0, 0);
+} 
+div .mu-text-field-line{
+  color: #fff;
+  background-color: #fff;
+}
+div .mu-text-field-hint{
+  color: #fff;
+}
+div .mu-text-field-input{
+  color: #fff;
+} 
+div .mu-tabs{
+  background-color: #fff;
+}
